@@ -12,7 +12,7 @@ on:
 jobs:
   build-java:
 
-    runs-on: ubantu-latest
+    runs-on: ubuntu-latest
 
     
     steps:
